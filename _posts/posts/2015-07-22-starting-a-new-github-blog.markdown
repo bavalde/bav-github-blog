@@ -16,9 +16,10 @@ Anyways, how hard can it be? So let´s dive in.
 
 ##Setup so far
 
-- The blog is created using [Jekyll](http://jekyllrb.com/) - a static site generator. 
-- Found a theme that looked nice from Michael Rose (thanks!), see the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) repo.
-- Following the instructions I have forked and renamed the repo as [https://github.com/bavalde/bav-github-blog.git(]https://github.com/bavalde/bav-github-blog.git)
+- The blog is created using [Jekyll](http://jekyllrb.com/) - a static site generator. I order to use this
+you must have [Ruby](https://www.ruby-lang.org/en/) with the Ruby [gem](https://rubygems.org/) package manager installed.
+- Found a Jekyll theme that looked nice from Michael Rose (thanks!), see the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) repo.
+- Following the theme instructions I have forked and renamed the repo as [https://github.com/bavalde/bav-github-blog.git](https://github.com/bavalde/bav-github-blog.git)
 - I must have made a mistake when deleting and then creating a new gh-branch (idea was to start
 with a clean working copy) because git started barfing at me so I did a hard reset origin -> gh-pages. 
 - getting Jekyll and friends installed and working was very easy: "sudo gem install bundler" followed 
@@ -29,11 +30,11 @@ git from [https://git-scm.com/](https://git-scm.com/). Seems strange, but whatev
 as easy as "jekyll build" and/or "jekyll serve". 
 - I´m not into serious vim (so far I have only learned enough vim to do basic editing when required). I guess an editor
 with git integration would be nice and I´m trying out Microsofts "code" - looks nice so far. I´m sure there are 
-alternatives, but it looks like a faster less crashy Atom editor for me and with a nice Visual Studio feel.
+alternatives, but it looks like a faster perhaps less crashy Atom editor for me and with a nice Visual Studio feel.
 - The site/blog as such needs a major cleanup, currently there are many demo posts and leftovers from the
 repo I cloned, but the basics seems to be up and running. 
 - As I´m writing this I have Jekyll serving in a Terminal window 
-and every time I save this file the site is automatically updated (re-built) and can be viewed as localhost:4000. 
+and every time I save the edited file the site is automatically updated (re-built) and can be viewed as localhost:4000. 
 I think I can get used to this, pretty slick workflow.
 
 ##Summary

@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            bavalde github blog
 locale:           en_US
 url:
 
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Bjørn Asle Valde
+  avatar: BAV_profilbilde.jpg
+  bio: "A techie living in Bergen, Norway. Techwriter."
+  email: bavalde@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: @bavalde
+  facebook: bavalde
   google:
-    plus: #username
+    plus: bavalde
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: bavalde
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

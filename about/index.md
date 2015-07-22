@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About this blog
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -17,7 +17,6 @@ There´s not much here yet, but that might change, so cheers and thanks for visi
 
 * [Jekyll](http://jekyllrb.com/) - a static site generator.
 * The [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) responsive Jekyll theme by [Michael Rose](https://mademistakes.com/).
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Hosted on [Github pages](https://pages.github.com/)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<a markdown="0" href="https://mmistakes.github.io/minimal-mistakes/theme-setup/" class="btn">Install Minimal Mistakes Theme</a>

@@ -14,7 +14,7 @@ It´s summer and I have some free time so starting a new github blog. Yay! Sligh
 never used github (or git) for anything serious before - I use svn and mercurial at work.
 Anyways, how hard can it be? So let´s dive in.
 
-==Setup so far
+##Setup so far
 
 - The blog is created using [Jekyll](http://jekyllrb.com/) - a static site generator. 
 - Found a theme that looked nice from Michael Rose (thanks!), see the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) repo.
@@ -36,10 +36,10 @@ repo I cloned, but the basics seems to be up and running.
 and every time I save this file the site is automatically updated (re-built) and can be viewed as localhost:4000. 
 I think I can get used to this, pretty slick workflow.
 
-==Summary
+##Summary
 Basically, this setup was faster and easier than I could have imaged. I´m impressed with the Jekyll and ruby/gem utils
 and to me the theme from Michael Rose looks pretty nice.
 
-==Next Steps
-Now I´m going the eat the macrell. What a booring fish and it´s all over the place for the time beeing. 
+##Next Steps
+Now I´m going the eat a macrell. What a booring fish and it´s all over the place for the time beeing. 
 I wich it was a proper cod or something. Then I might actually write a proper blogpost.

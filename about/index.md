@@ -10,16 +10,14 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Welcome to the github blog for Bjørn Asle Valde, a techwriter living in Bergen on the western coast of Norway.
+There´s not much here yet, but that might change, so cheers and thanks for visiting.
+ 
+## Blog built with:
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
+* [Jekyll](http://jekyllrb.com/) - a static site generator.
+* The [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/theme-setup/) responsive Jekyll theme by [Michael Rose](https://mademistakes.com/).
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Hosted on [Github pages](https://pages.github.com/)
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>

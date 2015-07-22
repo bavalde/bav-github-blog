@@ -24,17 +24,17 @@ you must have [Ruby](https://www.ruby-lang.org/en/) with the Ruby [gem](https://
 with a clean working copy) because git started barfing at me so I did a hard reset origin -> gh-pages. 
 - getting Jekyll and friends installed and working was very easy: "sudo gem install bundler" followed 
 by "bundle install" and as far as I can see it´s just working.
-- I´m writing this on a farily recent osx upgraded Mac, but github claimed my git was old so I grabbed a new 
+- I´m writing this on a fairly recent osx-upgraded Mac, but github claimed my git was old so I grabbed a new 
 git from [https://git-scm.com/](https://git-scm.com/). Seems strange, but whatever, I´m fine with that if you need me to.
 - This setup was all done in a few minuttes (excluding reading/understanding time) and to build and view the sample site is 
 as easy as "jekyll build" and/or "jekyll serve". 
 - I´m not into serious vim (so far I have only learned enough vim to do basic editing when required). I guess an editor
-with git integration would be nice and I´m trying out Microsofts "code" - looks nice so far. I´m sure there are 
-alternatives, but it looks like a faster perhaps less crashy Atom editor for me and with a nice Visual Studio feel.
-- The site/blog as such needs a major cleanup, currently there are many demo posts and leftovers from the
-repo I cloned, but the basics seems to be up and running. 
+with git integration would be nice and I´m trying out Microsofts [Code](https://code.visualstudio.com/) editor - looks nice so far. 
+I´m sure there are alternatives, but it looks like a faster perhaps less crashy ;) Atom editor for me and with a nice Visual Studio feel.
+- The site/blog as such needs a **major cleanup**, currently there are many demo posts and leftovers from the
+repo I cloned, sorry about that, but the basics seems to be up and running. 
 - As I´m writing this I have Jekyll serving in a Terminal window 
-and every time I save the edited file the site is automatically updated (re-built) and can be viewed as localhost:4000. 
+and every time I save an edited file the site is automatically updated (re-built) and can be viewed as localhost:4000. 
 I think I can get used to this, pretty slick workflow.
 
 ##Summary
